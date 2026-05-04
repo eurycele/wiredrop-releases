@@ -1,6 +1,6 @@
 # WireDrop Releases
 
-This repository hosts public release builds for NetShare.
+This repository hosts public release builds for WireDrop.
 
 WireDrop is a local network messaging and file-sharing application designed for fast peer-to-peer communication across devices on the same network.
 
